@@ -1,6 +1,6 @@
 ## Overview
 
-An attempt at making an AI agent with a locally run model (Gemma 3 in particular)
+An attempt at making an AI agent with a locally run model (Gemma 3 in particular). Uses Selenium as the means of interaction. Currently set up to only run with Firefox.
 
 ## Installation Instructions
 1. ```$ python -m venv venv```
